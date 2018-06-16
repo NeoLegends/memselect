@@ -7,6 +7,7 @@ repository = "https://github.com/NeoLegends/memselect"
 keywords = ["memoization", "selectors", "reselect"]
 categories = ["caching", "no-std"]
 license = "MIT"
+readme = "README.md"
 
 [badges]
 travis-ci = { repository = "NeoLegends/memselect" }
