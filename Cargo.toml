@@ -1,0 +1,6 @@
+[package]
+name = "memselect"
+version = "0.1.0"
+authors = ["Moritz Gunz <moritz.gunz@gmail.com>"]
+
+[dependencies]
