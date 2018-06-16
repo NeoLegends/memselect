@@ -2,5 +2,11 @@
 name = "memselect"
 version = "0.1.0"
 authors = ["Moritz Gunz <moritz.gunz@gmail.com>"]
+description = "No-std compatible memoizing selectors"
+repository = "NeoLegends/memselect"
+keywords = ["memoization", "selectors", "reselect"]
+categories = ["caching", "no-std"]
+license = "MIT"
 
-[dependencies]
+[badges]
+travis-ci = { repository = "NeoLegends/memselect" }
