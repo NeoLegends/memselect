@@ -1,6 +1,6 @@
 [package]
 name = "memselect"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Moritz Gunz <moritz.gunz@gmail.com>"]
 description = "No-std compatible memoizing selectors"
 repository = "https://github.com/NeoLegends/memselect"
