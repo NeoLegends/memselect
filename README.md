@@ -4,10 +4,7 @@
 
 No-std compatible memoizing selectors for Rust.
 
-Memselect allows you to create efficient selectors for memoizing expensive
-computations. The selectors can be composed to create higher-level selectors
-that benefit from memoization all the way down. Monomorphization ensures
-efficient runtime behavior.
+Memselect allows you to create efficient selectors for memoizing expensive computations. The selectors can be composed to create higher-level selectors that benefit from memoization all the way down. Monomorphization ensures efficient runtime behavior.
 
 ## Example
 ```rust
